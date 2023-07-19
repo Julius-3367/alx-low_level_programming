@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0. Preprocessor
 Write a script that runs a C file through the preprocessor and save the result into another file.
 1. Compiler
@@ -13,3 +14,6 @@ Write a C program that prints exactly with proper grammar, but the outcome is a 
 6. Size is not grandeur, and territory does not make a nation
 Write a C program that prints the size of various types on the computer it is compiled and run on.
 alx-low_level_programming readme
+=======
+# alx-low_level_programming
+>>>>>>> 2f62d04534a0c24cdff3cd75a1323deac573f752
