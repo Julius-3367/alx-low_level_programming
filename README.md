@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 0. Preprocessor
 Write a script that runs a C file through the preprocessor and save the result into another file.
 1. Compiler
@@ -17,3 +18,6 @@ alx-low_level_programming readme
 =======
 # alx-low_level_programming
 >>>>>>> 2f62d04534a0c24cdff3cd75a1323deac573f752
+=======
+ # alx-low_level_programming
+>>>>>>> 57a24463dd2f0f7630c79789061c83b88b14b28b
