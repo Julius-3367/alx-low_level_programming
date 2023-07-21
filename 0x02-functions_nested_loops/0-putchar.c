@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	char *h = "Holberton\n";
+	char *h = "main\n";
 
 	while (*h)
 	{
